@@ -24,8 +24,8 @@ As configurações de conexão com o banco de dados estão no arquivo: [backend/
 
 Script do banco de dados MySQL: **[shopper_database.sql](shopper_database.sql)**
 
-Para instalar as dependências (*node_modules*), utilizar o comando: **yarn install**
-Para dar start/início à aplicação, utilizar o comando: **yarn start**
+- Para instalar as dependências (*node_modules*), utilizar o comando: **yarn install**
+- Para dar start/início à aplicação, utilizar o comando: **yarn start**
 
 <br>
 
@@ -37,8 +37,8 @@ Cliente WEB.
 
 - O diretório [.csv](/.csv) contém arquivos '.csv' de exemplo para serem carregados pela aplicação web.
 
-Para instalar as dependências (*node_modules*), utilizar o comando: **yarn install**
-Para dar start/início à aplicação, utilizar o comando: **yarn start**
+- Para instalar as dependências (*node_modules*), utilizar o comando: **yarn install**
+- Para dar start/início à aplicação, utilizar o comando: **yarn start**
 
 <img src=".ss/frontend-validate-success-example.png" alt="success">
 <img src=".ss/frontend-validate-error-example.png" alt="error">
